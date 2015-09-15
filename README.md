@@ -1,1 +1,1 @@
-# msdn-blog-codesnippets
+# msdn-blog-snippets

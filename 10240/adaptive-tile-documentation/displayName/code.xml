@@ -1,0 +1,14 @@
+<tile>
+  <visual branding="nameAndLogo" displayName="Wednesday 22">
+
+    <binding template="TileMedium" displayName="Wed. 22">
+      ...
+    </binding>
+
+    <!--Inherits displayName from visual-->
+    <binding template="TileWide">
+      ...
+    </binding>
+
+  </visual>
+</tile>

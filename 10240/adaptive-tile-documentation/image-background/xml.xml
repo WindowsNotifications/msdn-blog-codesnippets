@@ -1,0 +1,14 @@
+...
+<binding template="TileWide">
+  <image src="Assets\Mostly Cloudy-Background.jpg" placement="background"/>
+  <group>
+    <subgroup hint-weight="1">
+      <text hint-align="center">Mon</text>
+      <image src="Assets\Weather\Mostly Cloudy.png" hint-removeMargin="true"/>
+      <text hint-align="center">63°</text>
+      <text hint-align="center" hint-style="captionsubtle">42°</text>
+    </subgroup>
+    ...
+  </group>
+</binding>
+...

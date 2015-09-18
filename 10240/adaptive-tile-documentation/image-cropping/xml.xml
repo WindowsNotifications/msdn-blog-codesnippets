@@ -1,0 +1,14 @@
+...
+<binding template="TileLarge" hint-textStacking="center">
+  <group>
+    <subgroup hint-weight="1"/>
+    <subgroup hint-weight="2">
+      <image src="Assets/Apps/Hipstame/hipster.jpg" hint-crop="circle"/>
+    </subgroup>
+    <subgroup hint-weight="1"/>
+  </group>
+
+  <text hint-style="title" hint-align="center">Hi,</text>
+  <text hint-style="subtitleSubtle" hint-align="center">MasterHip</text>
+</binding>
+...

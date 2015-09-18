@@ -1,17 +1,17 @@
-...
+ï»¿...
 <binding template="TileMedium" displayName="Seattle" branding="name">
   <group>
     <subgroup>
       <text hint-align="center">Mon</text>
       <image src="Assets\Apps\Weather\Mostly Cloudy.png" hint-removeMargin="true"/>
-      <text hint-align="center">63°</text>
-      <text hint-style="captionsubtle" hint-align="center">42°</text>
+      <text hint-align="center">63Â°</text>
+      <text hint-style="captionsubtle" hint-align="center">42Â°</text>
     </subgroup>
     <subgroup>
       <text hint-align="center">Tue</text>
       <image src="Assets\Apps\Weather\Cloudy.png" hint-removeMargin="true"/>
-      <text hint-align="center">57°</text>
-      <text hint-style="captionSubtle" hint-align="center">38°</text>
+      <text hint-align="center">57Â°</text>
+      <text hint-style="captionSubtle" hint-align="center">38Â°</text>
     </subgroup>
   </group>
 </binding>

@@ -1,4 +1,4 @@
-...
+ï»¿...
 
 TileMedium = new TileBinding()
 {
@@ -11,9 +11,9 @@ TileMedium = new TileBinding()
             {
                 Children =
                 {
-                    CreateSubgroup("Mon", "4.jpg", "63°", "42°"),
+                    CreateSubgroup("Mon", "4.jpg", "63Â°", "42Â°"),
 
-                    CreateSubgroup("Tue", "3.jpg", "57°", "38°")
+                    CreateSubgroup("Tue", "3.jpg", "57Â°", "38Â°")
                 }
             }
         }

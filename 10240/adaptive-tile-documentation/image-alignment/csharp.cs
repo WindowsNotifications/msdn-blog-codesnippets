@@ -1,5 +1,4 @@
-...
-
+﻿...
 TileLarge = new TileBinding()
 {
     Content = new TileBindingContentAdaptive()
@@ -14,5 +13,4 @@ TileLarge = new TileBinding()
         }
     }
 }
-
 ...

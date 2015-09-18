@@ -1,5 +1,4 @@
-...
-
+ï»¿...
 TileMedium = new TileBinding()
 {
     DisplayName = "Seattle",
@@ -12,15 +11,14 @@ TileMedium = new TileBinding()
             {
                 Children =
                 {
-                    CreateSubgroup("Mon", "Mostly Cloudy.png", "63°", "42°"),
+                    CreateSubgroup("Mon", "Mostly Cloudy.png", "63Â°", "42Â°"),
 
-                    CreateSubgroup("Tue", "Cloudy.png", "57°", "38°")
+                    CreateSubgroup("Tue", "Cloudy.png", "57Â°", "38Â°")
                 }
             }
         }
     }
 }
-
 ...
 
 

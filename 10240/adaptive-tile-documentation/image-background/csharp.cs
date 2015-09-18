@@ -1,5 +1,4 @@
-...
-
+ï»¿...
 TileWide = new TileBinding()
 {
     Content = new TileBindingContentAdaptive()
@@ -15,14 +14,13 @@ TileWide = new TileBinding()
             {
                 Children =
                 {
-                    CreateSubgroup("Mon", "Mostly Cloudy.png", "63°", "42°")
+                    CreateSubgroup("Mon", "Mostly Cloudy.png", "63Â°", "42Â°")
                     ...
                 }
             }
         }
     }
 }
-
 ...
 
 

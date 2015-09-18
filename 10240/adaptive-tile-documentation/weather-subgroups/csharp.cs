@@ -1,5 +1,4 @@
-...
-
+﻿...
 TileWide = new TileBinding()
 {
     DisplayName = "Seattle",
@@ -12,21 +11,20 @@ TileWide = new TileBinding()
             {
                 Children =
                 {
-                    CreateSubgroup("Mon", "Mostly Cloudy.png", "63�", "42�"),
+                    CreateSubgroup("Mon", "Mostly Cloudy.png", "63°", "42°"),
 
-                    CreateSubgroup("Tue", "Cloudy.png", "57�", "38�"),
+                    CreateSubgroup("Tue", "Cloudy.png", "57°", "38°"),
 
-                    CreateSubgroup("Wed", "Sunny.png", "59�", "43�"),
+                    CreateSubgroup("Wed", "Sunny.png", "59°", "43°"),
 
-                    CreateSubgroup("Thu", "Sunny.png", "62�", "42�"),
+                    CreateSubgroup("Thu", "Sunny.png", "62°", "42°"),
 
-                    CreateSubgroup("Fri", "Sunny.png", "71�", "66�")
+                    CreateSubgroup("Fri", "Sunny.png", "71°", "66°")
                 }
             }
         }
     }
 }
-
 ...
 
 

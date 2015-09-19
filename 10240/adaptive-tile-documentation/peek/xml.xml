@@ -1,0 +1,7 @@
+﻿...
+<binding template="TileMedium" branding="name">
+  <image placement="peek" src="Assets/Apps/Hipstame/hipster.jpg"/>
+  <text>New Message</text>
+  <text hint-style="captionsubtle" hint-wrap="true">Hey, have you tried Windows 10 yet?</text>
+</binding>
+...

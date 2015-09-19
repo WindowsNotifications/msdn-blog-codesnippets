@@ -1,0 +1,6 @@
+﻿...
+<binding template="TileMedium" hint-textStacking="center" branding="logo">
+  <text hint-style="base" hint-align="center">Hi,</text>
+  <text hint-style="captionSubtle" hint-align="center">MasterHip</text>
+</binding>
+...

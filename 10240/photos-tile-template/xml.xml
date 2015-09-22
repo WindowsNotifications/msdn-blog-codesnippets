@@ -1,0 +1,27 @@
+﻿<!--
+
+To use the Photos template...
+
+ - On any adaptive tile binding (like TileMedium or TileWide)
+   - Set the hint-presentation attribute to "photos"
+   - Add up to 12 images as children of the binding.
+   
+-->
+
+<tile>
+  <visual>
+    
+    <binding template="TileMedium" hint-presentation="photos">
+      
+      <image src="Assets/1.jpg" />
+      <image src="ms-appdata:///local/Images/2.jpg"/>
+      <image src="http://msn.com/images/3.jpg"/>
+      
+      <!--TODO: Can have 12 images total-->
+      
+    </binding>
+    
+    <!--TODO: Add bindings for other tile sizes-->
+    
+  </visual>
+</tile>

@@ -19,7 +19,7 @@ TileContent content = new TileContent()
                 Images =
                 {
                     new TileImageSource("Assets/1.jpg"),
-                    new TileImageSource("ms-appdata:///Images/2.jpg"),
+                    new TileImageSource("ms-appdata:///local/Images/2.jpg"),
                     new TileImageSource("http://msn.com/images/3.jpg")
 
                     // TODO: Can have 12 images total

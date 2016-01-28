@@ -4,7 +4,7 @@ To use the Photos template...
 
  - On any TileBinding object
    - Set Content property to new instance of TileBindingContentPhotos
-   - Add up to 12 images to Images property of TileBindingContentPhotos.
+   - Add up to 9 images to Images property of TileBindingContentPhotos.
 
 */
 
@@ -22,7 +22,7 @@ TileContent content = new TileContent()
                     new TileImageSource("ms-appdata:///local/Images/2.jpg"),
                     new TileImageSource("http://msn.com/images/3.jpg")
 
-                    // TODO: Can have 12 images total
+                    // TODO: Can have 9 images total
                 }
             }
         }

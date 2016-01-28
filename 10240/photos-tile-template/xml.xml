@@ -4,7 +4,7 @@ To use the Photos template...
 
  - On any adaptive tile binding (like TileMedium or TileWide)
    - Set the hint-presentation attribute to "photos"
-   - Add up to 12 images as children of the binding.
+   - Add up to 9 images as children of the binding.
    
 -->
 
@@ -17,7 +17,7 @@ To use the Photos template...
       <image src="ms-appdata:///local/Images/2.jpg"/>
       <image src="http://msn.com/images/3.jpg"/>
       
-      <!--TODO: Can have 12 images total-->
+      <!--TODO: Can have 9 images total-->
       
     </binding>
     
